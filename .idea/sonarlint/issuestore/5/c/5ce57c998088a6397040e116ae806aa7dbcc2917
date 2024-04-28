@@ -1,0 +1,21 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ı“‚8êÎ»Œò1J$ab729644-5aa6-455f-9312-212028047886
+r	java:S106("+Replace this use of System.out by a logger.(ŸéËšıÿÿÿÿ8øÎ»Œò1J$6120a83c-9e3f-4063-9392-a122c2355cb6
+r	java:S106/"+Replace this use of System.out by a logger.(üëÔ¼ùÿÿÿÿ8ûÎ»Œò1J$8cf5ccb8-e657-4fc0-8501-086ac25329da
+r	java:S1065"+Replace this use of System.out by a logger.(²ÿ·êúÿÿÿÿ8üÎ»Œò1J$e1166a71-c243-4a7b-b0a0-b2dca877dd1d
+	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êğş·8ıÎ»Œò1J$ad1dc452-3fd2-4fe2-a8ed-38d4cdf68f46
+r	java:S106:"+Replace this use of System.out by a logger.(Ö„ÕÆşÿÿÿÿ8şÎ»Œò1J$6f15b04a-5435-4f10-84fc-043a246a4d40
+~	java:S125B"<This block of commented-out lines of code should be removed.(•†ôÙ8ÿÎ»Œò1J$ea561cd0-97ee-4f65-9c66-790fba1a6258
+~	java:S125E"<This block of commented-out lines of code should be removed.(áäİ×8ÿÎ»Œò1J$0647218a-f253-434f-9e1e-bc71d035a0ef
+ƒ	java:S125M"<This block of commented-out lines of code should be removed.(ÉïÂ·ûÿÿÿÿ8ÿÎ»Œò1J$0363d060-ab27-4072-a824-e3e9f3d4fed6
+~	java:S125R"<This block of commented-out lines of code should be removed.(èó»Ú8ÿÎ»Œò1J$6f092b39-76da-4314-b125-5210a3c05025
+
+java:S1128"ERemove this unused import 'org.springframework.beans.BeansException'.(Æ¢ùìüÿÿÿÿ8€Ï»Œò1J$201938d1-7f87-4d6f-99f5-a1510b0c5bc0
+’
+java:S1128"JRemove this unused import 'org.springframework.beans.factory.BeanFactory'.(ĞÚû±ıÿÿÿÿ8€Ï»Œò1J$09ee9a55-44db-4d64-81c9-d967e641c42a
+’
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.BeanFactoryAware'.(™ºÌë8€Ï»Œò1J$c7aa3800-c4a9-48bc-b751-2beafb9c3955
+›
+java:S1128	"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8€Ï»Œò1J$cf73625f-4372-4b83-9bb2-d484eb91016d
+
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8€Ï»Œò1J$850d9d35-a684-4d90-afa6-9d635b7b0f11
